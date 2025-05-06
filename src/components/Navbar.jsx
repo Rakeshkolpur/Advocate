@@ -33,6 +33,7 @@ const Navbar = ({ onBookConsultation }) => {
             {menuOpen ? <FaTimes /> : <FaBars />}
           </button>
           <div className="hidden md:flex flex-col items-end ml-4">
+            <span className="font-bold">prakashraju721@gmail.com</span>
             <span className="font-bold">9346457270</span>
             <span className="text-xs">24 Hours Available</span>
           </div>
